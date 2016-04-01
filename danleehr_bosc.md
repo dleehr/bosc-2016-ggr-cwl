@@ -1,5 +1,6 @@
 --------------   -------------------------------------------
-**Title**        CWL in Practice: Embracing Common Workflow Language for existing projects and academic computing clusters
+**Title**        CWL in Practice: Adopting Common Workflow Language for
+                 existing research and academic computing clusters
 **Author**       _Dan Leehr_, Alejandro Barrera, Hilmar Lapp
 **Affiliation**  https://www.genome.duke.edu
 **Contact**      dan.leehr@duke.edu
