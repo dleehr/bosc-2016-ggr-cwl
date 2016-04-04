@@ -1,9 +1,7 @@
 --------------   -------------------------------------------
-**Title**        CWL in Practice: Adopting Common Workflow Language for
-                 existing research projects and academic computing 
-                 clusters
-**Authors**       _Dan Leehr_, Alejandro Barrera, Hilmar Lapp
-**Affiliation**  https://www.genome.duke.edu
+**Title**        CWL in Practice: Experiences, challenges, and results from adopting Common Workflow Language
+**Authors**       _Dan Leehr_, Alejandro Barrera, Tim Reddy, Hilmar Lapp
+**Affiliation**  Duke University, Center for Genomic and Computational Biology
 **Contact**      dan.leehr@duke.edu
 **URL**          https://github.com/Duke-GCB/GGR-cwl
 **License**      MIT
